@@ -1,5 +1,5 @@
 ### Live Link
-<a href="">Live Link</a>
+<a href="https://sudhanshu-purohit.github.io/Sudhanshu-Smartify-assignment/">Live Link</a>
 
 ### Description 
 This project involves building a responsive interface using Material-UI components in React. It includes state management for auto top-up and slider value, logic for slider credits and price display, auto top-up functionality, and styling to match a provided design, focusing on color scheme, spacing, and typography.
